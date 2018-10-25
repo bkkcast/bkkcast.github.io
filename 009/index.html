@@ -8,7 +8,7 @@
   
   <title>9. エンジニアの副業 - bkkcast</title>
   
-  <meta name="description" content="@tamanyan55 @tejitak @kitak ※ 外の収録でノイズが入っています。申し訳ございません。 お品書き @kitak さんの自己紹介 (0:30) 日本のフロントエンドエンジニア フロントエンド事情 (1:00) Vue.js も">
+  <meta name="description" content="エンジニアの副業についてフロントエンドエンジニアの kitak さんと語る。需要高まる副業を如何にこなすか？積極的にアウトプットする事で自分の地位を確立させる。副業はタイムマネジメントが重要。">
   <meta name="author" content="bkkcast">
   
   <script
@@ -20,7 +20,13 @@
   <link href="https://cdn.bootcss.com/highlight.js/9.12.0/styles/default.min.css" rel="stylesheet">
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.9/mediaelement-and-player.js"></script>
+  <script src="/media-plugins/speed/speed.min.js"></script>
+  <script src="/media-plugins/jump-forward/jump-forward.min.js"></script>
+  <script src="/media-plugins/skip-back/skip-back.min.js"></script>
   
+  <link rel="stylesheet" href="/media-plugins/speed/speed.min.css">
+  <link rel="stylesheet" href="/media-plugins/jump-forward/jump-forward.min.css">
+  <link rel="stylesheet" href="/media-plugins/skip-back/skip-back.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.9/mediaelementplayer.css" />
   <link href="/css/style.css" rel="stylesheet">
   
@@ -32,7 +38,7 @@
   <link rel="alternate" type="application/atom+xml" href="/index.xml" title="bkkcast">
   
   <meta name="og:title" content="9. エンジニアの副業" />
-  <meta name="og:description" content="@tamanyan55 @tejitak @kitak ※ 外の収録でノイズが入っています。申し訳ございません。 お品書き @kitak さんの自己紹介 (0:30) 日本のフロントエンドエンジニア フロントエンド事情 (1:00) Vue.js も" />
+  <meta name="og:description" content="エンジニアの副業についてフロントエンドエンジニアの kitak さんと語る。需要高まる副業を如何にこなすか？積極的にアウトプットする事で自分の地位を確立させる。副業はタイムマネジメントが重要。" />
   <meta name="og:image" content="https://bkkcast.me/img/eyecatch.png" />
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:url" content="https://bkkcast.me/009/" />
@@ -42,7 +48,7 @@
   
   <meta property="og:url" content="https://bkkcast.me/009/" />
   <meta property="og:title" content="9. エンジニアの副業" />
-  <meta property="og:description" content="@tamanyan55 @tejitak @kitak ※ 外の収録でノイズが入っています。申し訳ございません。 お品書き @kitak さんの自己紹介 (0:30) 日本のフロントエンドエンジニア フロントエンド事情 (1:00) Vue.js も" />
+  <meta property="og:description" content="エンジニアの副業についてフロントエンドエンジニアの kitak さんと語る。需要高まる副業を如何にこなすか？積極的にアウトプットする事で自分の地位を確立させる。副業はタイムマネジメントが重要。" />
   <meta property="og:image" content="https://bkkcast.me/img/eyecatch.png" />
   <meta property="og:type" content="article" />
   
@@ -133,6 +139,8 @@
 
 <p>※ 外の収録でノイズが入っています。申し訳ございません。</p>
 
+<p>bkkcast はフィードバックを積極的に受け付けています。聞いてみたいことがあれば<a class="notice" href="https://peing.net/ja/bkkcast" target="_blank">質問箱</a>もしくは <a class="notice" href="https://twitter.com/bkkcast" target="_blank">@bkkcast</a> まで連絡ください！</p>
+
 <h2 id="お品書き">お品書き</h2>
 
 <ul>
@@ -145,14 +153,13 @@
 
 <ul>
 <li>Vue.js も増えてきたが、React.js か Vue.js がほとんど</li>
-<li>Vue.js だと HTML ライクにかけるので、デザイナーの人に JOIN してもらいやすい</li>
+<li>Vue.js じゃ HTML ライクにかけるのでデザイナーの人に入ってもらいやすい</li>
 <li>React.js は TypeScript とセットで型安全にコードがかける</li>
 </ul></li>
 <li><a class="jump" href="#160">Twitterアカウントについて (2:40)</a>
 
 <ul>
 <li>「いちゃつくんじゃねぇ」の Twitter 情報は真なのか？</li>
-<li>ex. <a href="https://twitter.com/kitak/status/968856116028305408">エスカレーターでいちゃつくんじゃねぇ！</a></li>
 <li>道玄坂上でいちゃつくカップルが多い</li>
 <li><a href="https://cancam.jp/archives/224875">エンジニア男子は結婚に向いている！その理由と正しい出会い方とは</a></li>
 </ul></li>
@@ -161,8 +168,8 @@
 <ul>
 <li>前回は観光にタイに来た</li>
 <li>以前より治安がよくなったように感じる</li>
-<li>Ouky T シャツ爆買い</li>
-<li><a href="http://ouky-jp.com/?lang=en">Ouky – VINTAGE WASHED  – made in thailand</a></li>
+<li>OUKY T シャツ爆買い</li>
+<li><a href="http://ouky-jp.com/?lang=en">OUKY</a></li>
 <li>肌触りが良い、日本より安い</li>
 </ul></li>
 <li><a class="jump" href="#720">副業について (11:58)</a>
@@ -170,9 +177,9 @@
 <ul>
 <li>副業をしたいというエンジニアが増えているように感じる</li>
 <li>元々は副業を積極的にやるつもりではなかった</li>
-<li>知り合い経由で仕事をもらう事が多い</li>
+<li>知り合いづてで仕事をもらう事が多い</li>
 <li>売上が一定超えると個人事業主になった</li>
-<li>Bar で副業の仕事をもらう</li>
+<li>バーで技術顧問の仕事をもらう</li>
 <li>積極的にアウトプットして、自分に何ができるかをアピール</li>
 <li>どうやって副業をこなしているか？</li>
 <li>会社が裁量働制で副業の時間を作っている</li>
@@ -185,7 +192,7 @@
 <li>元々は @tejitak が主催・運用していた</li>
 <li>累計 200,300 人が参加</li>
 </ul></li>
-<li><a class="jump" href="#1278">質問コーナー (21:18)</a>
+<li><a class="jump" href="#1278">質問コーナー (21:18)</a>
 
 <ul>
 <li>「バンコクで勢いがあるスタートアップはどんなものがありますか？どんなサービスなのか気になります」</li>
@@ -213,11 +220,11 @@
     });
   });
 
-  $(function() {
-    $('audio,video').mediaelementplayer({
-      success: function(player, node) {
-      }
-    });
+
+  var features = ['playpause', 'current', 'progress', 'duration', 'volume', 'skipback', 'jumpforward', 'speed'];
+  var player = new MediaElementPlayer('player', {
+    autoRewind: false,
+    features: features,
   });
 </script>
 
