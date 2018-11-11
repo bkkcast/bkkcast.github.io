@@ -24,11 +24,22 @@
   </itunes:category>
 
   
+  <item>
+    <title>14. 良いエンジニアを採用するためのカルチャーを作るには？</title>
+    <itunes:author>bkkcast</itunes:author>
+    <itunes:summary>フロントエンドエンジニアの @shqld をゲストに迎え、良いエンジニアを採用するためのカルチャー作りについて話しました。非テック企業にとって、エンジニア採用は課題になりつつある。エンジニアにとって魅力的な会社にするにはどのようにすれば良いか？</itunes:summary>
+    <enclosure url="https://bkkcast.me/mp3/20181111.mp3" length="" type="audio/mp3" />
+    <guid>https://bkkcast.me/014/</guid>
+    <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+    <itunes:duration></itunes:duration>
+    <itunes:keywords>
+    </itunes:keywords>
+  </item>
   
   <item>
     <title>13. セブ島 IT 留学と東南アジアエンジニアのキャリアプラン</title>
     <itunes:author>bkkcast</itunes:author>
-    <itunes:summary>@tejitak @kengaogaoasia @yuta_fukunishi bkkcast はフィードバックを積極的に受け付けています。聞いてみたいことがあれば質問箱もしくは @bkkcast まで連絡ください！ お品書き 1. @yuta_fukunish さんの紹介 (0:50) 渋谷の</itunes:summary>
+    <itunes:summary>セブ島で東南アジアエンジニアとして活躍している @yuta_fukunish さんをゲストに迎えて、セブ島留学と東南アジアエンジニアのキャリアプランについて話し合いました。セブ島 IT 留学とは？キャリアチェンジ組にはセブ島 IT 留学はオススメできない場合もある！？東南アジア移住エンジニアはどこに最後永住するか？</itunes:summary>
     <enclosure url="https://bkkcast.me/mp3/20181022.mp3" length="" type="audio/mp3" />
     <guid>https://bkkcast.me/013/</guid>
     <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
@@ -40,7 +51,7 @@
   <item>
     <title>12. 東南アジアを渡り歩くエンジニアとベトナムのエンジニア事情について</title>
     <itunes:author>bkkcast</itunes:author>
-    <itunes:summary>@tamanyan55 @tejitak @mito_log @akaringding bkkcast はフィードバックを積極的に受け付けています。聞いてみたいことがあれば質問箱もしくは @bkkcast まで連絡ください！ お品書き 1. bkkcast がバズった (0:35) 先週</itunes:summary>
+    <itunes:summary>農業及び東南アジアをバックパッカーというユニークバックグラウンドを持ったエンジニアとディレクターにインタビュー。ベトナム語通訳者とつながる、オンライン通訳アプリ Jelly Talk（ジェリートーク）とは？ベトナムの知られざるエンジニア事情。残業という概念がないベトナム。</itunes:summary>
     <enclosure url="https://bkkcast.me/mp3/20181014.mp3" length="" type="audio/mp3" />
     <guid>https://bkkcast.me/012/</guid>
     <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
@@ -52,7 +63,7 @@
   <item>
     <title>11. フロントエンドエンジニアのキャリアパス</title>
     <itunes:author>bkkcast</itunes:author>
-    <itunes:summary>@tamanyan55 @laiso @mtfum bkkcast はフィードバックを積極的に受け付けています。聞いてみたいことがあれば質問箱もしくは @bkkcast まで連絡ください！ お品書き 1. フロントエンドエンジ</itunes:summary>
+    <itunes:summary>フロントエンドエンジニアのキャリアパスについて語る。フロントエンドエンジニアは CTO にはなることはできないのか？フロントエンドエンジニアの 3 人でディスカッションをする。</itunes:summary>
     <enclosure url="https://bkkcast.me/mp3/20181011.mp3" length="" type="audio/mp3" />
     <guid>https://bkkcast.me/011/</guid>
     <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
@@ -64,7 +75,7 @@
   <item>
     <title>10. バンコクでハッカソンに参加してみた</title>
     <itunes:author>bkkcast</itunes:author>
-    <itunes:summary>@tamanyan55 @tejitak @mtfum bkkcast はフィードバックを積極的に受け付けています。聞いてみたいことがあれば質問箱もしくは @bkkcast まで連絡ください！ お品書き @mtfum さんの自己紹介 (0:22) 9 月</itunes:summary>
+    <itunes:summary>バンコクで LINE ハッカソンに参加する。初海外ハッカソンを通じて感じた事などについて語る。150 チームの中チーム GAOGAO は見事優勝を勝ち取る事ができたのか？</itunes:summary>
     <enclosure url="https://bkkcast.me/mp3/20180923.mp3" length="" type="audio/mp3" />
     <guid>https://bkkcast.me/010/</guid>
     <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
@@ -76,7 +87,7 @@
   <item>
     <title>9. エンジニアの副業</title>
     <itunes:author>bkkcast</itunes:author>
-    <itunes:summary>@tamanyan55 @tejitak @kitak ※ 外の収録でノイズが入っています。申し訳ございません。 bkkcast はフィードバックを積極的に受け付けています。聞いてみたいことがあれば質問箱もし</itunes:summary>
+    <itunes:summary>エンジニアの副業についてフロントエンドエンジニアの kitak さんと語る。需要高まる副業を如何にこなすか？積極的にアウトプットする事で自分の地位を確立させる。副業はタイムマネジメントが重要。</itunes:summary>
     <enclosure url="https://bkkcast.me/mp3/20180911.mp3" length="" type="audio/mp3" />
     <guid>https://bkkcast.me/009/</guid>
     <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
@@ -88,7 +99,7 @@
   <item>
     <title>8. 北米西海岸訪問レポート</title>
     <itunes:author>bkkcast</itunes:author>
-    <itunes:summary>@tamanyan55 @tejitak bkkcast はフィードバックを積極的に受け付けています。聞いてみたいことがあれば質問箱もしくは @bkkcast まで連絡ください！ お品書き 北米西海岸訪問に関して (0:30)</itunes:summary>
+    <itunes:summary>サンフランシスコ、サンノゼ、シアトル、バンクーバーに行き、現地のスタートアップ・エンジニア事情について情報を得る。カナダはアメリカよりビザを取得しやすい？英語とプログラミング能力を上げてバンクーバーでエンジニア就職。シリコンバレーは普通レベルで年収 1500 万円以上！？</itunes:summary>
     <enclosure url="https://bkkcast.me/mp3/20180904.mp3" length="" type="audio/mp3" />
     <guid>https://bkkcast.me/008/</guid>
     <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
@@ -100,7 +111,7 @@
   <item>
     <title>7. タイの日本人スタートアップ事情</title>
     <itunes:author>bkkcast</itunes:author>
-    <itunes:summary>@tamanyan55 @kengaogaoasia @masumi_sugae bkkcast はフィードバックを積極的に受け付けています。聞いてみたいことがあれば質問箱もしくは @bkkcast まで連絡ください！ お品書き @masumi_sugae の自己紹介 (0:40) 学生エン</itunes:summary>
+    <itunes:summary>タイの日本人スタートアップ事情やタイ人の優秀層について語る。今後東南アジアに日本人エンジニアが増えていくのか？</itunes:summary>
     <enclosure url="https://bkkcast.me/mp3/20180819.mp3" length="" type="audio/mp3" />
     <guid>https://bkkcast.me/007/</guid>
     <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
@@ -112,7 +123,7 @@
   <item>
     <title>6. 世界を旅する女性エンジニア ~今どきのデジタルノマドの働き方とは~</title>
     <itunes:author>bkkcast</itunes:author>
-    <itunes:summary>@tamanyan55 @tejitak @ta__miyan bkkcast はフィードバックを積極的に受け付けています。聞いてみたいことがあれば質問箱もしくは @bkkcast まで連絡ください！ お品書き @ta__miyan さんの自己紹介 (0:30) 東京</itunes:summary>
+    <itunes:summary>世界を旅しながらリモートワークをしている女性エンジニアにインタビュー。最近流行りのデジタルノマドの実現方法とは？普通の会社員ではデジタルノマドは難しい！？</itunes:summary>
     <enclosure url="https://bkkcast.me/mp3/20180812.mp3" length="" type="audio/mp3" />
     <guid>https://bkkcast.me/006/</guid>
     <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
@@ -124,7 +135,7 @@
   <item>
     <title>5. (収録中に交通事故！？) 個人ゲーム開発者がバンコクのスタートアップエンジニアに転身</title>
     <itunes:author>bkkcast</itunes:author>
-    <itunes:summary>@tamanyan55 @tejitak miyata bkkcast はフィードバックを積極的に受け付けています。聞いてみたいことがあれば質問箱もしくは @bkkcast まで連絡ください！ ※ 今回は外の収録のためノイズが</itunes:summary>
+    <itunes:summary>個人ゲーム開発者がタイのスタートアップ企業に転身。野球シミュレーションゲーム TwitHitter の裏話。タイのスタートアップでの働き方などについて語る。</itunes:summary>
     <enclosure url="https://bkkcast.me/mp3/20180805.mp3" length="" type="audio/mp3" />
     <guid>https://bkkcast.me/005/</guid>
     <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
@@ -136,10 +147,46 @@
   <item>
     <title>4. シリコンバレーでグリーンカードを取るまでの道</title>
     <itunes:author>bkkcast</itunes:author>
-    <itunes:summary>@tamanyan55 @tejitak @mihiguch bkkcast はフィードバックを積極的に受け付けています。聞いてみたいことがあれば質問箱もしくは @bkkcast まで連絡ください！ お品書き @mihiguch さんの自己紹介 (0:28) 3 年</itunes:summary>
+    <itunes:summary>シリコンバレーで活躍する女性エンジニアにシリコンバレーの就労ビザについて聞く。グリーンカード取得までの道のりとは？H1B 取得は茨の道なのか！？シリコンバレーの物価の高い。</itunes:summary>
     <enclosure url="https://bkkcast.me/mp3/20180731.mp3" length="" type="audio/mp3" />
     <guid>https://bkkcast.me/004/</guid>
     <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+    <itunes:duration></itunes:duration>
+    <itunes:keywords>
+    </itunes:keywords>
+  </item>
+  
+  <item>
+    <title>3. laiso</title>
+    <itunes:author>bkkcast</itunes:author>
+    <itunes:summary>インターネットエンジニア界隈で有名な laiso さんがゲストとして登場する。タイのスタートアップに転職。既婚者でシェアハウスに住む！？</itunes:summary>
+    <enclosure url="https://bkkcast.me/mp3/20180729.mp3" length="" type="audio/mp3" />
+    <guid>https://bkkcast.me/003/</guid>
+    <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+    <itunes:duration></itunes:duration>
+    <itunes:keywords>
+    </itunes:keywords>
+  </item>
+  
+  <item>
+    <title>2. セブの IT 留学ってどうなの？</title>
+    <itunes:author>bkkcast</itunes:author>
+    <itunes:summary>セブの IT 留学について NexSeed の女性エンジニアに聞く。IT 留学は本当に価値があるのか？セブ島の生活とは？</itunes:summary>
+    <enclosure url="https://bkkcast.me/mp3/20180722.mp3" length="" type="audio/mp3" />
+    <guid>https://bkkcast.me/002/</guid>
+    <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+    <itunes:duration></itunes:duration>
+    <itunes:keywords>
+    </itunes:keywords>
+  </item>
+  
+  <item>
+    <title>1. bkkcast 始めます</title>
+    <itunes:author>bkkcast</itunes:author>
+    <itunes:summary>バンコクキャスト bkkcast をスタート。バンコクで活躍しているエンジニアにインタビュー。バンコクの生活事情などについて語る。エンジニア事務所 GAOGAO とは？</itunes:summary>
+    <enclosure url="https://bkkcast.me/mp3/20180715.mp3" length="" type="audio/mp3" />
+    <guid>https://bkkcast.me/001/</guid>
+    <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
     <itunes:duration></itunes:duration>
     <itunes:keywords>
     </itunes:keywords>
