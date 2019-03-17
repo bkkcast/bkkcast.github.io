@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bkkcast.me/021/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bkkcast.me/020/</loc>
     <lastmod>2019-03-02T00:00:00+00:00</lastmod>
   </url>
@@ -114,7 +119,7 @@
   
   <url>
     <loc>https://bkkcast.me/</loc>
-    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
