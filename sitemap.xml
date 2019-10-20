@@ -119,12 +119,10 @@
   
   <url>
     <loc>https://bkkcast.me/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bkkcast.me/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
